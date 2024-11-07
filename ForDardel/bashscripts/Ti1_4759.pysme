@@ -1,0 +1,4 @@
+cd /cfs/klemming/projects/snic/pdc-bus-2022-4/Jack/
+source my-venv-dardel/bin/activate
+cd Departures/DepartureGrid/CoG/
+sbatch Ti1_4759.sh
